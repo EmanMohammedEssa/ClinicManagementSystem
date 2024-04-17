@@ -20,26 +20,47 @@ This is a simple clinic management system implemented in Python using Object-Ori
 
 ## Example
 
-$ python main.py
 
 Clinic Management System 
 
 1. Add Patient
+
 2. View Patients
+
 3. Mark Patient as Treated
+
 4. Remove Patient
+
 5. Exit
+   
 
 Enter your choice: 1
+
+
 Enter patient's name: John Doe
+
+
 Enter patient's age: 35
+
+
 Enter patient's gender (Male, Female): Male
+
+
 Enter patient's medical condition: Fever
+
+
 Patient 'John Doe' added successfully!
 
+
 Enter your choice: 2
+
+
 ** Patient List **
+
+
 Name: John Doe
+
+
 Age: 35
 Gender: Male
 Condition: Fever
